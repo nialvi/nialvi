@@ -2,7 +2,7 @@
 
 ## About me
 
-- 🧑‍💻 frontend developer with 9+ years of coding experience
+- 🧑‍💻 frontend developer with 10+ years of coding experience
 - 🏗 I like to build a lot of new things
 - 💼 I save all my learning projects in my GitHub repos
 - 🧗‍♂️ Always learning!
